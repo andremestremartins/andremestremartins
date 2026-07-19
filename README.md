@@ -1,15 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=André%20Mestre%20Martins&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Programming%20Student%20%7C%20Aspiring%20Full%20Stack%20Developer&descAlignY=55&descSize=16" />
-
-<a href="https://github.com/andremestremartins">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Computer+Programming+Student;Web+Programming+%E2%80%94+20%2F20;Learning+C%23+Game+Development;Full+Stack+Developer+in+Progress;Passionate+About+UI%2FUX+%26+Clean+Code" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=André%20Mestre%20Martins&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Programming%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=16" />
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=andremestremartins&label=Profile+Views&color=000080&style=for-the-badge"/>
-
 </div>
 
 <br/>
@@ -33,7 +26,7 @@ I'm André Mestre Martins, a Computer Programming student based in Lisbon, Portu
 <a href="#">
   <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=1f6feb" />
 </a>
-<a href="mailto:andre.mestre.martins@gmail.com">
+<a href="mailto:andre.mestre.martins@gmail.com" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=1f6feb" />
 </a>
 
@@ -57,11 +50,15 @@ I'm André Mestre Martins, a Computer Programming student based in Lisbon, Portu
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=python,flask,django,php,cs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,flask,django,php&theme=dark" />
+
+**Game DEV**
+
+<img src="https://skillicons.dev/icons?i=cs&theme=dark" />
 
 **Database**
 
@@ -98,12 +95,10 @@ I'm André Mestre Martins, a Computer Programming student based in Lisbon, Portu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=andremestremartins&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=andremestremartins&theme=dark&hide_border=true&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremestremartins&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&text_color=c9d1d9" width="49%" />
 
 </div>
 
@@ -140,19 +135,14 @@ I'm André Mestre Martins, a Computer Programming student based in Lisbon, Portu
 
 <br/>
 
-## Philosophy
-
-> "Success isn't built overnight. It's achieved through consistency, curiosity, and continuous learning."
 
 <br/>
 
 <div align="center">
 
 ⭐ If you find something useful in my repositories, consider leaving a star.
+<br/>
 🤝 Always open to learning opportunities, collaborations, and new ideas.
 
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=150&section=footer" />
 
 </div>
