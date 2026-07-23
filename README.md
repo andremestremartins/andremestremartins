@@ -24,16 +24,7 @@ I'm André Mestre Martins, a Computer Programming student based in Lisbon, Portu
 </div>
 <br/>
 
-## What I Do
-- 🌐 Frontend & responsive web development
-- ⚙️ Backend logic with Python, Flask, Django and PHP
-- 🎮 C# game development
-- 🗄️ Database design with MySQL
-- 🎨 UI/UX design & prototyping
-- 🤖 AI-assisted development workflows
-- 📚 Continuous learning through real, hands-on projects
 
-<br/>
 
 ## Tech Stack
 
@@ -71,10 +62,6 @@ I'm André Mestre Martins, a Computer Programming student based in Lisbon, Portu
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-0d1117?style=for-the-badge&logo=githubcopilot&logoColor=1f6feb)
 ![Perplexity](https://img.shields.io/badge/Perplexity-0d1117?style=for-the-badge&logo=perplexity&logoColor=1f6feb)
 
-## Currently Learning
-![C# Game Development](https://img.shields.io/badge/C%23%20Game%20Development-0d1117?style=for-the-badge&logo=csharp&logoColor=1f6feb)
-![Full Stack Development](https://img.shields.io/badge/Full%20Stack%20Development-0d1117?style=for-the-badge&logo=dev.to&logoColor=1f6feb)
-
 ## GitHub Statistics
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=andremestremartins&theme=dark&hide_border=true&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb" width="49%" />
@@ -88,12 +75,7 @@ I'm André Mestre Martins, a Computer Programming student based in Lisbon, Portu
 </div>
 <br/>
 
-## Goals
-- Become a professional Full Stack Developer
-- Master C# for software and game development
-- Build modern, production-ready applications
-- Keep learning continuously, every single week
-- Contribute meaningfully to open source projects
+
 
 ## Soft Skills
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-0d1117?style=for-the-badge&color=1f6feb)
